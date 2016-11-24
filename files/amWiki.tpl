@@ -16,7 +16,7 @@
         <!-- 头部 -->
         <header class="header">
             <div class="header-inner">
-                <a class="logo" href="?file=首页">
+                <a class="logo" href="?file=HomePage">
                     <img src="{{logo}}" /><i></i>
                     <b>{{name}}</b>
                     <span>{{version}}</span>
