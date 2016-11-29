@@ -5,9 +5,14 @@
 			'label': 'amWiki',
 			'submenu': [
 				{
+			        'label': 'Create Doc with config.json',
+			        'command': 'amWiki:create'
+			    },
+				{
 			        'label': 'Update navigation',
 			        'command': 'amWiki:makeNav'
-			    }, {
+			    },
+				{
 			        'label': 'Insert TOC',
 			        'command': 'amWiki:catalogue'
 			    }
